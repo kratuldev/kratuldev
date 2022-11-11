@@ -15,3 +15,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+  
+</br> 
+<p align="center">
+<a href="mailto:kumaratul.ismu@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />   </a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/kumar-atul/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>&nbsp;&nbsp;
+<a href="https://metrics.lecoq.io/insights/kumaratulismu"><img src="https://img.shields.io/badge/Metrics-gray?style=for-the-badge&logo=github"</a>
+<p>
